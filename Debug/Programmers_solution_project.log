@@ -1,0 +1,6 @@
+﻿  main.cpp
+  크레인_인형뽑기.cpp
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\크레인_인형뽑기.cpp(14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\크레인_인형뽑기.cpp(19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+LINK : fatal error LNK1561: 진입점이 정의되어야 합니다.
