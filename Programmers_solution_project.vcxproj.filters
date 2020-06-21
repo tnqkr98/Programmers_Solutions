@@ -18,7 +18,28 @@
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="크레인_인형뽑기.cpp">
+    <ClCompile Include="프로그래머스_모의고사.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스_크레인 인형뽑기 게임.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스_완주하지 못한 선수.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스_가운데 글자 가져오기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스_문자열 다루기 기본.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스_문자열 압축.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스_괄호 변환.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="프로그래머스_쇠막대기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
