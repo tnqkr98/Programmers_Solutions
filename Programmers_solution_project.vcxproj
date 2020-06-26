@@ -116,9 +116,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="프로그래머스_2016년.cpp" />
     <ClCompile Include="프로그래머스_k번째수.cpp" />
     <ClCompile Include="프로그래머스_가운데 글자 가져오기.cpp" />
+    <ClCompile Include="프로그래머스_같은 숫자는 싫어.cpp" />
     <ClCompile Include="프로그래머스_괄호 변환.cpp" />
+    <ClCompile Include="프로그래머스_나누어 떨어지는 숫자배열.cpp" />
+    <ClCompile Include="프로그래머스_두 정수 사이의 합.cpp" />
     <ClCompile Include="프로그래머스_문자열 다루기 기본.cpp" />
     <ClCompile Include="프로그래머스_문자열 압축.cpp" />
     <ClCompile Include="프로그래머스_소수찾기.cpp" />
