@@ -116,6 +116,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="프로그래머스_ 정수 제곱근 판별.cpp" />
+    <ClCompile Include="프로그래머스_시저암호.cpp" />
+    <ClCompile Include="프로그래머스_문자열 내 p와 y의 개수.cpp" />
+    <ClCompile Include="프로그래머스_문자열 내 마음대로 정렬하기.cpp" />
+    <ClCompile Include="프로그래머스_문자열 내림차순으로 배치하기.cpp" />
+    <ClCompile Include="프로그래머스_문자열을 정수로 바꾸기.cpp" />
+    <ClCompile Include="프로그래머스_서울에서 김서방 찾기.cpp" />
+    <ClCompile Include="소수찾기.cpp" />
     <ClCompile Include="프로그래머스_2016년.cpp" />
     <ClCompile Include="프로그래머스_k번째수.cpp" />
     <ClCompile Include="프로그래머스_가운데 글자 가져오기.cpp" />
@@ -127,7 +135,15 @@
     <ClCompile Include="프로그래머스_문자열 압축.cpp" />
     <ClCompile Include="프로그래머스_소수찾기.cpp" />
     <ClCompile Include="프로그래머스_쇠막대기.cpp" />
+    <ClCompile Include="프로그래머스_수박수박수박수박수박수.cpp" />
+    <ClCompile Include="프로그래머스_약수의 합.cpp" />
     <ClCompile Include="프로그래머스_완주하지 못한 선수.cpp" />
+    <ClCompile Include="프로그래머스_이상한 문자 만들기.cpp" />
+    <ClCompile Include="프로그래머스_자릿수 더하기.cpp" />
+    <ClCompile Include="프로그래머스_자연수 뒤집어 배열로 만들기.cpp" />
+    <ClCompile Include="프로그래머스_정수 내림차순으로 배치하기cpp.cpp" />
+    <ClCompile Include="프로그래머스_제일 작은 수 제거하기.cpp" />
+    <ClCompile Include="프로그래머스_짝수와 홀수.cpp" />
     <ClCompile Include="프로그래머스_크레인 인형뽑기 게임.cpp" />
     <ClCompile Include="프로그래머스_모의고사.cpp" />
     <ClCompile Include="프로그래머스_타겟넘버.cpp" />
