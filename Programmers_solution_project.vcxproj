@@ -152,6 +152,7 @@
     <ClCompile Include="프로그래머스_타겟넘버.cpp" />
     <ClCompile Include="프로그래머스_타일장식물.cpp" />
     <ClCompile Include="프로그래머스_탑cpp.cpp" />
+    <ClCompile Include="프로그래머스_평균구하기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
