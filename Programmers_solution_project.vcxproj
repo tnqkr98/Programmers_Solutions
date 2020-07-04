@@ -118,6 +118,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="프로그래머스_ 정수 제곱근 판별.cpp" />
     <ClCompile Include="프로그래머스_방문길이.cpp" />
+    <ClCompile Include="프로그래머스_수식 최대화.cpp" />
     <ClCompile Include="프로그래머스_시저암호.cpp" />
     <ClCompile Include="프로그래머스_문자열 내 p와 y의 개수.cpp" />
     <ClCompile Include="프로그래머스_문자열 내 마음대로 정렬하기.cpp" />
