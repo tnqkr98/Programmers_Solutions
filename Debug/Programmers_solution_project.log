@@ -1,6 +1,73 @@
-﻿  main.cpp
-  크레인_인형뽑기.cpp
-c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\크레인_인형뽑기.cpp(14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\크레인_인형뽑기.cpp(19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+﻿  소스.cpp
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\소스.cpp(7): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  프로그래머스_ 정수 제곱근 판별.cpp
+  프로그래머스_방문길이.cpp
+  프로그래머스_수식 최대화.cpp
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_수식 최대화.cpp(20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  프로그래머스_시저암호.cpp
+  프로그래머스_문자열 내 p와 y의 개수.cpp
+  프로그래머스_문자열 내 마음대로 정렬하기.cpp
+  프로그래머스_문자열 내림차순으로 배치하기.cpp
+  프로그래머스_문자열을 정수로 바꾸기.cpp
+  프로그래머스_서울에서 김서방 찾기.cpp
+  소수찾기.cpp
+  프로그래머스_2016년.cpp
+  프로그래머스_k번째수.cpp
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_k번째수.cpp(10): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  프로그래머스_가운데 글자 가져오기.cpp
+  프로그래머스_같은 숫자는 싫어.cpp
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_같은 숫자는 싫어.cpp(11): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  프로그래머스_괄호 변환.cpp
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_괄호 변환.cpp(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_괄호 변환.cpp(37): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  프로그래머스_나누어 떨어지는 숫자배열.cpp
+  프로그래머스_두 정수 사이의 합.cpp
+  프로그래머스_문자열 다루기 기본.cpp
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_문자열 다루기 기본.cpp(11): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  프로그래머스_문자열 압축.cpp
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_문자열 압축.cpp(11): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_문자열 압축.cpp(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_문자열 압축.cpp(33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
   코드를 생성하고 있습니다...
-LINK : fatal error LNK1561: 진입점이 정의되어야 합니다.
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_문자열 내 마음대로 정렬하기.cpp(18): warning C4715: 'cmp': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  프로그래머스_소수찾기.cpp
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_소수찾기.cpp(20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_소수찾기.cpp(33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  프로그래머스_쇠막대기.cpp
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_쇠막대기.cpp(14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  프로그래머스_수박수박수박수박수박수.cpp
+  프로그래머스_실패율.cpp
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_실패율.cpp(17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  프로그래머스_약수의 합.cpp
+  프로그래머스_예산.cpp
+  프로그래머스_완주하지 못한 선수.cpp
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_완주하지 못한 선수.cpp(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_완주하지 못한 선수.cpp(20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  프로그래머스_이상한 문자 만들기.cpp
+  프로그래머스_자릿수 더하기.cpp
+  프로그래머스_자연수 뒤집어 배열로 만들기.cpp
+  프로그래머스_정수 내림차순으로 배치하기cpp.cpp
+  프로그래머스_제일 작은 수 제거하기.cpp
+  프로그래머스_짝수와 홀수.cpp
+  프로그래머스_콜라츠추측.cpp
+  프로그래머스_크레인 인형뽑기 게임.cpp
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_크레인 인형뽑기 게임.cpp(14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_크레인 인형뽑기 게임.cpp(19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  프로그래머스_모의고사.cpp
+  프로그래머스_타겟넘버.cpp
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_타겟넘버.cpp(12): error C2872: 'size': 모호한 기호입니다.
+  c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_타겟넘버.cpp(8): note: 'int size'일 수 있습니다.
+  c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_타겟넘버.cpp(12): note: 또는       'size'
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_타겟넘버.cpp(22): error C2872: 'size': 모호한 기호입니다.
+  c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_타겟넘버.cpp(8): note: 'int size'일 수 있습니다.
+  c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_타겟넘버.cpp(22): note: 또는       'size'
+  프로그래머스_타일장식물.cpp
+  프로그래머스_탑cpp.cpp
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_탑cpp.cpp(9): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  프로그래머스_평균구하기.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  프로그래머스_핸드폰 번호 가리기.cpp
+c:\users\donghan park\source\repos\programmers_solution_project\programmers_solution_project\프로그래머스_핸드폰 번호 가리기.cpp(5): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...

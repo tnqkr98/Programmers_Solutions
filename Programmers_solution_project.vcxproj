@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="소스.cpp" />
     <ClCompile Include="프로그래머스_ 정수 제곱근 판별.cpp" />
     <ClCompile Include="프로그래머스_방문길이.cpp" />
     <ClCompile Include="프로그래머스_수식 최대화.cpp" />
@@ -138,6 +139,7 @@
     <ClCompile Include="프로그래머스_소수찾기.cpp" />
     <ClCompile Include="프로그래머스_쇠막대기.cpp" />
     <ClCompile Include="프로그래머스_수박수박수박수박수박수.cpp" />
+    <ClCompile Include="프로그래머스_실패율.cpp" />
     <ClCompile Include="프로그래머스_약수의 합.cpp" />
     <ClCompile Include="프로그래머스_예산.cpp" />
     <ClCompile Include="프로그래머스_완주하지 못한 선수.cpp" />
@@ -154,6 +156,7 @@
     <ClCompile Include="프로그래머스_타일장식물.cpp" />
     <ClCompile Include="프로그래머스_탑cpp.cpp" />
     <ClCompile Include="프로그래머스_평균구하기.cpp" />
+    <ClCompile Include="프로그래머스_핸드폰 번호 가리기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
