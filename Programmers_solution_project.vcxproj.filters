@@ -159,5 +159,8 @@
     <ClCompile Include="프로그래머스_kakao2018_다트게임.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="프로그래머스_kakao2018_압축.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
