@@ -119,7 +119,10 @@
     <ClCompile Include="소스.cpp" />
     <ClCompile Include="프로그래머스_ 정수 제곱근 판별.cpp" />
     <ClCompile Include="프로그래머스_kakao2018_뉴스클러스터링.cpp" />
+    <ClCompile Include="프로그래머스_kakao2018_다트게임.cpp" />
+    <ClCompile Include="프로그래머스_kakao2018_비밀지도.cpp" />
     <ClCompile Include="프로그래머스_kakao2018_추석트래픽.cpp" />
+    <ClCompile Include="프로그래머스_kakao2018_캐시.cpp" />
     <ClCompile Include="프로그래머스_kakao2018_프렌즈4블록.cpp" />
     <ClCompile Include="프로그래머스_방문길이.cpp" />
     <ClCompile Include="프로그래머스_수식 최대화.cpp" />
