@@ -53,5 +53,7 @@
     <ClCompile Include="프로그래머스_내적.cpp" />
     <ClCompile Include="프로그래머스_kakao2021_숫자 문자열과 영단어.cpp" />
     <ClCompile Include="프로그래머스_N-Queen.cpp" />
+    <ClCompile Include="프로그래머스_kakao2019blind_길 찾기 게임.cpp" />
+    <ClCompile Include="프로그래머스_kakao2020blind_외벽 점검.cpp" />
   </ItemGroup>
 </Project>
