@@ -124,6 +124,7 @@
     <ClCompile Include="프로그래머스_kakao2018_캐시.cpp" />
     <ClCompile Include="프로그래머스_kakao2018_프렌즈4블록.cpp" />
     <ClCompile Include="프로그래머스_kakao2019blind_길 찾기 게임.cpp" />
+    <ClCompile Include="프로그래머스_kakao2019blind_후보키.cpp" />
     <ClCompile Include="프로그래머스_kakao2020blind_외벽 점검.cpp" />
     <ClCompile Include="프로그래머스_kakao2020_자물쇠와열쇠.cpp" />
     <ClCompile Include="프로그래머스_kakao2021_숫자 문자열과 영단어.cpp" />
