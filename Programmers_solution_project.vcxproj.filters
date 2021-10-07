@@ -57,5 +57,7 @@
     <ClCompile Include="프로그래머스_kakao2020blind_외벽 점검.cpp" />
     <ClCompile Include="프로그래머스_kakao2019blind_후보키.cpp" />
     <ClCompile Include="프로그래머스_124 나라의 숫자.cpp" />
+    <ClCompile Include="프로그래머스_N개의 최소공배수.cpp" />
+    <ClCompile Include="프로그래머스_순위.cpp" />
   </ItemGroup>
 </Project>

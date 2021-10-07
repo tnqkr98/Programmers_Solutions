@@ -132,9 +132,11 @@
     <ClCompile Include="프로그래머스_kakao겨울인턴19_튜플.cpp" />
     <ClCompile Include="프로그래머스_kakao인턴20_경주로건설.cpp" />
     <ClCompile Include="프로그래머스_N-Queen.cpp" />
+    <ClCompile Include="프로그래머스_N개의 최소공배수.cpp" />
     <ClCompile Include="프로그래머스_내적.cpp" />
     <ClCompile Include="프로그래머스_방문길이.cpp" />
     <ClCompile Include="프로그래머스_수식 최대화.cpp" />
+    <ClCompile Include="프로그래머스_순위.cpp" />
     <ClCompile Include="프로그래머스_시저암호.cpp" />
     <ClCompile Include="프로그래머스_문자열 내 p와 y의 개수.cpp" />
     <ClCompile Include="프로그래머스_문자열 내 마음대로 정렬하기.cpp" />
