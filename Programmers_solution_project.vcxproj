@@ -134,7 +134,10 @@
     <ClCompile Include="프로그래머스_N-Queen.cpp" />
     <ClCompile Include="프로그래머스_N개의 최소공배수.cpp" />
     <ClCompile Include="프로그래머스_내적.cpp" />
+    <ClCompile Include="프로그래머스_단어 변환.cpp" />
+    <ClCompile Include="프로그래머스_두 개 뽑아서 더하기.cpp" />
     <ClCompile Include="프로그래머스_방문길이.cpp" />
+    <ClCompile Include="프로그래머스_삼각 달팽이.cpp" />
     <ClCompile Include="프로그래머스_수식 최대화.cpp" />
     <ClCompile Include="프로그래머스_순위.cpp" />
     <ClCompile Include="프로그래머스_시저암호.cpp" />
@@ -156,6 +159,7 @@
     <ClCompile Include="프로그래머스_쇠막대기.cpp" />
     <ClCompile Include="프로그래머스_수박수박수박수박수박수.cpp" />
     <ClCompile Include="프로그래머스_실패율.cpp" />
+    <ClCompile Include="프로그래머스_약수의 개수와 덧셈.cpp" />
     <ClCompile Include="프로그래머스_약수의 합.cpp" />
     <ClCompile Include="프로그래머스_예산.cpp" />
     <ClCompile Include="프로그래머스_완주하지 못한 선수.cpp" />
@@ -173,6 +177,7 @@
     <ClCompile Include="프로그래머스_탑cpp.cpp" />
     <ClCompile Include="프로그래머스_평균구하기.cpp" />
     <ClCompile Include="프로그래머스_핸드폰 번호 가리기.cpp" />
+    <ClCompile Include="프로그래머스_행렬의 덧셈.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

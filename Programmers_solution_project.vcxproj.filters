@@ -59,5 +59,10 @@
     <ClCompile Include="프로그래머스_124 나라의 숫자.cpp" />
     <ClCompile Include="프로그래머스_N개의 최소공배수.cpp" />
     <ClCompile Include="프로그래머스_순위.cpp" />
+    <ClCompile Include="프로그래머스_두 개 뽑아서 더하기.cpp" />
+    <ClCompile Include="프로그래머스_삼각 달팽이.cpp" />
+    <ClCompile Include="프로그래머스_행렬의 덧셈.cpp" />
+    <ClCompile Include="프로그래머스_단어 변환.cpp" />
+    <ClCompile Include="프로그래머스_약수의 개수와 덧셈.cpp" />
   </ItemGroup>
 </Project>
